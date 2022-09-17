@@ -1,6 +1,6 @@
 # NLW eSports -Trilha Explorer
 
-![preview](./.preview.png)
+![preview](C:\Workspace\nlw-esports-explorer\.github)
 
 > Trilha Explorer
 
